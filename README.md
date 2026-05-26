@@ -18,7 +18,7 @@ A full-stack, responsive Blog Management System built with Laravel, featuring a 
 
 ## Setup Steps (Local Development)
 
-1. Clone the repository: `git clone [your-repo-link]`
+1. Clone the repository: `git clone https://github.com/Eggvait/JobYaari-Assignment`
 2. Navigate into the directory: `cd blog-system`
 3. Install dependencies: `composer install`
 4. Copy the environment file: `cp .env.example .env`
